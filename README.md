@@ -1,6 +1,8 @@
 # GuppiApp
 
 GuppiApp is a front-end dev of the project Guppi.
+
+
 ![alt-text](prototype.gif)
 
 ### Installation:
