@@ -1,6 +1,6 @@
-# GuppiApp
+# Guppi-front-end
 
-GuppiApp is a front-end development of the project Guppi.
+Guppi-front-end is a front-end development of the project Guppi.
 
 
 ![alt-text](prototype.gif)
